@@ -1,0 +1,3 @@
+﻿  Assembling proj06a.asm...
+proj06a.asm(158): warning A6004: procedure argument or local not referenced : loopCounter
+  Project.vcxproj -> C:\CS271\Assignment6A\Debug\Project.exe
